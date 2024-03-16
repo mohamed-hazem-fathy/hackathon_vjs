@@ -10,3 +10,7 @@ export default defineNuxtPlugin((nuxt) => {
     });
     nuxt.vueApp.use(vuetiyfy);
 })
+
+// export default {
+
+// }
